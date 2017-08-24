@@ -1,0 +1,27 @@
+{
+  "name": "css-rule-adder",
+  "version": "0.0.1",
+  "description": "Simple class for adding css rules",
+  "main": "ruleAdder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaybeRex/css-rule-adder.git"
+  },
+  "keywords": [
+    "css",
+    "helper",
+    "rule",
+    "adder",
+    "util",
+    "stylesheet"
+  ],
+  "author": "Mario Solorzano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaybeRex/css-rule-adder/issues"
+  },
+  "homepage": "https://github.com/MaybeRex/css-rule-adder#readme"
+}
